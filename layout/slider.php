@@ -6,7 +6,7 @@
 <!--SLIDE MOVIL-->
 
 <!--SLIDE DESKTOP-->
-    <div class="hidden-xs hidden-sm">
+    <div class="hidden-xs hidden-sm" id="inicio">
             <div id="rev_slider_149_1_wrapper" class="rev_slider_wrapper fullscreen-container rev-hide-timer " data-alias="snowaddon1" data-source="gallery" style="background-color:#2d3032;padding:0px;">
                 <div id="rev_slider_149_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
                     <ul>	<!-- SLIDE  -->
