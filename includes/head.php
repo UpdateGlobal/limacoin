@@ -29,8 +29,6 @@
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">
     <!-- ANIMATE STYLE SHEET --> 
     <link rel="stylesheet" type="text/css" href="css/animate.min.css">
-    <!-- OWL CAROUSEL STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
     <!-- BOOTSTRAP SELECT BOX STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap-select.min.css">
     <!-- MAGNIFIC POPUP STYLE SHEET -->
@@ -44,8 +42,9 @@
     <!-- CUSTOM  STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/custom.css">
     <!-- SIDE SWITCHER STYLE SHEET -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/switcher.css"> -->    
-
+    <!-- <link rel="stylesheet" type="text/css" href="css/switcher.css"> --> 
+    <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">   
+    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.css">
     
     <!-- REVOLUTION SLIDER CSS -->
     <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/settings.css">

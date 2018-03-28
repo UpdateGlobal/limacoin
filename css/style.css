@@ -1405,7 +1405,7 @@ ol.list-num-count.list-outline-none > li:before {
 .m-t20 {margin-top:20px;}
 .m-t30 {margin-top:30px;}
 .m-t40 {margin-top:40px;}
-.m-t50 {margin-top:50px;}
+.m-t50 {margin-top: 70px;}
 .m-t60 {margin-top:60px;}
 .m-t70 {margin-top:70px;}
 .m-t80 {margin-top:80px;}
@@ -1935,7 +1935,7 @@ ol.list-num-count.list-outline-none > li:before {
 .bdr-white{border-color:#ffffff;}
 .bdr-black{border-color:#000000;}
 .bdr-primary{border-color:#ec5598;}
-.bdr-gray{border-color:#dddddd;}
+.bdr-gray{/* border-color:#dddddd; */}
 .bdr-gray-light{border-color:#eeeeee;}
 .bdr-gray-dark{border-color:#333333;}
 
@@ -1944,7 +1944,7 @@ ol.list-num-count.list-outline-none > li:before {
 .bdr-3,
 .bdr-4,
 .bdr-5 {
-	border-style:solid;	 
+	/* border-style:solid; */
 }
 
 .bdr-dot-1,
@@ -5008,10 +5008,10 @@ a:focus.video-play-btn{
 
 .social-icons.social-square.social-darkest a,
 .social-icons.social-radius.social-darkest a{
-	border:1px solid #4a4c4c;
+	border: 1px solid #fff;
 }
 .social-icons.social-darkest a {
-	color: #454747;
+	color: #fff;
 }
 
 .social-icons.social-square.social-darkest a:hover,
@@ -9140,8 +9140,9 @@ header .logo{
 	1.1  next pre btn
 -------------------------------------*/
 .owl-carousel .owl-nav {
-	margin-top:40px;
+	margin-top: 0px;
 	text-align: center;
+	background-color: #00000000;
 }
 
 .owl-carousel .owl-nav .disabled {
@@ -9274,8 +9275,8 @@ header .logo{
 -------------------------------------*/
 .owl-prev,
 .owl-next {
-	background-color: #212121;
-	border-color: #212121;
+	background-color: #000;
+	border-color: #000;
 	color: #ffffff;
 	padding:8px 10px;
 	font-size: 13px;
@@ -9301,8 +9302,8 @@ header .logo{
 .owl-next:hover,
 .owl-next:active,
 .owl-next:focus {
-	background-color: #212121;
-	border-color: #212121;
+	background-color: #000;
+	border-color: #000;
 	color: #ffffff;
 	opacity:0.9;
 }
@@ -9902,6 +9903,7 @@ button.scroltop span {
 -------------------------------------*/
 .section-head {
 	margin-bottom:50px;
+	margin-top: 50px;
 }
 .section-head.no-margin {
 	margin-bottom:0;
@@ -12344,14 +12346,14 @@ ol.commentlist li::after {
 }
 .any-query img{
 	position: absolute;
-	top: -80px;
+	top: -120px;
 	left: 50%;
 	margin-left: -60px;
 }
 
 .any-query-contact img{
 	position: absolute;
-	top: -90px;
+	top: -120px;
 	left: 50%;
 	margin-left: -60px;
 }

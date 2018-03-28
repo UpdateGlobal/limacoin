@@ -14,7 +14,27 @@
 
 <script  src="js/isotope.pkgd.min.js"></script><!-- MASONRY  -->
 
-<script   src="js/owl.carousel.min.js"></script><!-- OWL  SLIDER  -->
+<script   src="js/owl.carousel.js"></script><!-- OWL  SLIDER  -->
+<style type="text/css">
+$('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+	
+
+</style>
 
 <script  src="https://maps.google.com/maps/api/js?key=AIzaSyCz6xX2nI6cMkePba_DHQcs0MkR7m2IuvE&callback=initMap"  ></script>
 <!-- GOOGLE MAP -->
@@ -22,6 +42,29 @@
 
 <script   src="js/stellar.min.js"></script><!-- PARALLAX BG IMAGE   --> 
 <script   src="js/scrolla.min.js"></script><!-- ON SCROLL CONTENT ANIMTE   -->
+<script   src="js/owl.carousel.js"></script><!-- CAROSULSER OWL-->
+<script type="text/javascript">
+	$('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:false,
+    autoplay:true,
+    autoplayTimeout:2500,
+    autoplayHoverPause:true,
+    responsive:{
+        0:{	
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+	
+</script>
 
 <script   src="js/custom.js"></script><!-- CUSTOM FUCTIONS  -->
 <script   src="js/shortcode.js"></script><!-- SHORTCODE FUCTIONS  -->
@@ -58,7 +101,44 @@
 <script type="text/javascript"  src="js/rev-script-4.js"></script>
 
 
-<!-- LOADING AREA START ===== -->
+<script type="text/javascript">
+    
+
+<!-- esto es para deslizar lento SCROLL DOWN-->
+<script>
+    $(function(){
+
+     $('a[href*=#]').click(function() {
+
+     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+         && location.hostname == this.hostname) {
+
+             var $target = $(this.hash);
+
+             $target = $target.length && $target || $('[name=' + this.hash.slice(1) +']');
+
+             if ($target.length) {
+
+                 var targetOffset = $target.offset().top;
+
+                 $('html,body').animate({scrollTop: targetOffset}, 1000);
+
+                 return false;
+
+            }
+
+       }
+
+   });
+
+});
+</script>
+
+
+</script>
+
+
+<!-- LOADING AREA START ===== --
 <div class="loading-area">
     <div class="loading-box"></div>
     <div class="loading-pic">

@@ -1,15 +1,15 @@
 
         <!-- FOOTER START -->
-        <footer class="site-footer bg-no-repeat bg-full-height bg-center"  style="background-image:url('images/background/footer-bg.jpg');">
+        <footer class="site-footer bg-no-repeat bg-full-height bg-center"  style="background-color: black;">
             <!-- FOOTER BLOCKES START -->  
             <div class="footer-top overlay-wraper">
                 <div class="overlay-main bg-black opacity-05"></div>
                 <div class="container">
                     <div class="row">
                         <!-- ABOUT COMPANY -->
-                        <div class="col-md-3 col-sm-6">  
+                        <div class="col-md-12 col-sm-12" align="center">  
                             <div class="widget widget_about">
-                                <h4 class="widget-title text-white">LIMA COIN</h4>
+                                <!--     -->
                                 <div class="logo-footer clearfix p-b15">
                                     <a href="index.html"><img src="images/footer-logo.png" width="230" height="67" alt=""/></a>
                                 </div>
@@ -26,7 +26,7 @@
                        
                     <div class="row">
                     
-                        <div class="col-md-3 col-sm-6  p-tb20">
+                        <div class="col-md-4 col-sm-6  p-tb20">
                            <div class="wt-icon-box-wraper left  bdr-1 bdr-gray-dark p-tb15 p-lr10 clearfix">
                                 <div class="icon-md text-primary">
                                     <span class="iconmoon-travel"></span>
@@ -37,7 +37,7 @@
                                 </div>
                            </div>
                         </div>
-                       <div class="col-md-3 col-sm-6  p-tb20 ">
+                       <div class="col-md-4 col-sm-6  p-tb20 ">
                            <div class="wt-icon-box-wraper left  bdr-1 bdr-gray-dark p-tb15 p-lr10 clearfix ">
                                 <div class="icon-md text-primary">
                                     <span class="iconmoon-smartphone-1"></span>
@@ -49,7 +49,7 @@
                                 </div>
                            </div>
                        </div>
-                       <div class="col-md-3 col-sm-6 p-tb20">
+                       <div class="col-md-4 col-sm-6 p-tb20">
                            <div class="wt-icon-box-wraper left  bdr-1 bdr-gray-dark p-tb15 p-lr10 clearfix">
                                 <div class="icon-md text-primary">
                                     <span class="iconmoon-email"></span>
@@ -71,7 +71,7 @@
                 <div class="constrot-strip"></div>
                 <div class="container p-t30">
                     <div class="row">
-                        <div class="wt-footer-bot-left">
+                        <div align="center">
                             <span class="copyrights-text">© 2018 Lima Coin. Todos los derechos reservados. Diseño Update Global Marketing.</span>
                         </div>
                         
