@@ -51,7 +51,7 @@
                                 </li>
                                 <li><a href="#nosotros" class="scroll" data-speed="2000" >Nosotros</a></li>
                                 <li><a href="#limacoin" class="scroll" data-speed="2000">Porqué Lima Coin</a></li>
-                                <li class="submenu-direction"><a href="index.php#contacto" class="scroll" data-speed="2000">Contacto</a></li>
+                                <li class="submenu-direction"><a href="#contacto" class="scroll" data-speed="2000">Contacto</a></li>
                             </ul>
                         </div>
         
