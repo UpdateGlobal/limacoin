@@ -1,13 +1,13 @@
 
         <!-- FOOTER START -->
         <footer class="site-footer bg-no-repeat bg-full-height bg-center"  style="background-color: black;">
-            <!-- FOOTER BLOCKES START -->  
+            <!-- FOOTER BLOCKES START -->
             <div class="footer-top overlay-wraper">
                 <div class="overlay-main bg-black opacity-05"></div>
                 <div class="container">
                     <div class="row">
                         <!-- ABOUT COMPANY -->
-                        <div class="col-md-12 col-sm-12" align="center">  
+                        <div class="col-md-12 col-sm-12" align="center">
                             <div class="widget widget_about">
                                 <!--     -->
                                 <div class="logo-footer clearfix p-b15">
@@ -17,9 +17,9 @@
                                       sed diam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat .   
                                       wisi enim ad minim veniam, quis tation. sit amet, consec tetuer.
                                       ipsum dolor sit amet, consectetuer adipiscing.ipsum dolor sit .
-                                </p>  
+                                </p>
                             </div>
-                        </div> 
+                        </div>
                              
                        
                        

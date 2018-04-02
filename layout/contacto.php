@@ -1,4 +1,51 @@
-<!-- CONTACTANOS -->
+    <script>
+        function sendContact(){
+            var valid;
+            valid = validateContact();
+            if(valid) {
+                jQuery.ajax({
+                    url: "contact_form.php",
+                    data:'nombres='+$("#nombres").val()+'&email='+$("#email").val()+'&telefono='+$("#telefono").val()+'&asunto='+$("#asunto").val()+'&mensaje='+$("#mensaje").val(),
+                    type: "POST",
+                    success:function(data){
+                        $("#mail-status").html(data);
+                    },
+                    error:function (){}
+                });
+            }
+        }
+
+        function validateContact() {
+            var valid = true;
+            if(!$("#nombres").val()) {
+                $("#nombres").css('background-color','#f28282');
+                valid = false;
+            }
+            if(!$("#email").val()) {
+                $("#email").css('background-color','#f28282');
+                valid = false;
+            }
+            if(!$("#email").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+                $("#email").css('background-color','#f28282');
+                valid = false;
+            }
+            if(!$("#telefono").val()) {
+                $("#telefono").css('background-color','#f28282');
+                valid = false;
+            }
+            if(!$("#asunto").val()) {
+                $("#asunto").css('background-color','#f28282');
+                valid = false;
+            }
+            if(!$("#mensaje").val()) {
+                $("#mensaje").css('background-color','#f28282');
+                valid = false;
+            }    
+            return valid;
+        }
+    </script>
+
+            <!-- CONTACTANOS -->
             <div class="section-full  p-tb80" style="background-color: #88621b4a;" id="contacto">
                 <div class="container">
                     <!-- TITLE START-->
@@ -8,7 +55,7 @@
                         <div class="wt-separator-outer">
                             <div class="wt-separator bg-primary"></div>
                         </div>
-                        <p> Absolveremos todas tus interrogantes, solo déjanos tus datos.</p>
+                        <p>Absolveremos todas tus interrogantes, solo déjanos tus datos.</p>
                     </div>
                     <!-- TITLE END-->  
                 </div>
@@ -16,9 +63,10 @@
                 <div class="container">
                     <div class="section-content p-a15 ">
                         <div class="row">
+
                             <!-- UBICACIÓN-->
                             <div class="wt-box col-md-6">
-                                <h3 class="text-uppercase">UBÍCANOS</h3>
+                                <h3 class="text-uppercase">UB&Iacute;CANOS</h3>
                                 <div class="wt-separator-outer m-b30">
                                    <div class="wt-separator bg-primary"></div>
                                </div>
@@ -30,45 +78,44 @@
                         
                             <!-- CONTACT FORM-->
                             <div class="wt-box col-md-6">
-                                <h3 class="text-uppercase">CONTÁCTANOS </h3>
+                                <h3 class="text-uppercase">CONTÁCTANOS</h3>
                                 <div class="wt-separator-outer m-b30">
                                    <div class="wt-separator bg-primary"></div>
-                               </div>
-                                
-                                <form class="cons-contact-form" method="post" action="form-handler.php">
-                        
+                                </div>
+                                <div class="cons-contact-form">
+                                <!-- <form class="cons-contact-form" method="post" action="form-handler.php"> -->
                                     <div class="row p-a30" style="background-color: black;">
-                                    
-                                        <div class="contact-caption">                                      
-                                        <form  class="cons-contact-form" method="post" action="form-handler2.php">
-                                            <div class="form-group">
-                                                <input name="username" type="text" required class="form-control" placeholder="Name">
+                                        <div class="contact-caption">
+                                            <div class="cons-contact-form">
+                                            <!-- <form  class="cons-contact-form" method="post" action="form-handler2.php"> -->
+                                                <div id="mail-status"></div>
+                                                <div class="form-group">
+                                                    <input id="nombres" name="nombres" type="text" class="form-control" placeholder="Nombres" required>
+                                                </div>
+                                                <div class="form-group">
+                                                    <input id="email" name="email" type="text" class="form-control" placeholder="Email" required>
+                                                </div>
+                                                <div class="form-group">
+                                                    <input id="telefono" name="telefono" type="text" class="form-control" placeholder="Teléfono" required>
+                                                </div>
+                                                <div class="form-group">
+                                                    <input id="asunto" name="asunto" type="text" class="form-control" placeholder="Asunto" required>
+                                                </div>
+                                                <div class="form-group">
+                                                    <textarea id="mensaje" name="mensaje" class="form-control" rows="5" placeholder="Mensaje"></textarea>
+                                                </div>
+                                                <div>
+                                                    <button name="submit" onClick="sendContact();" class="site-button skew-icon-btn btn-block">
+                                                        <span class="font-18 inline-block text-uppercase p-lr15">Contactarme</span>
+                                                    </button>
+                                                </div>
+                                            <!-- </form> -->
                                             </div>
-                                            <div class="form-group">
-                                                <input name="email" type="text" class="form-control" required placeholder="Email">
-                                            </div>
-                                            <div class="form-group">
-                                                <input name="phone" type="text" class="form-control" required placeholder="Phone">
-                                            </div>
-                                            <div class="form-group">
-                                                <input name="subject" type="text" class="form-control" required placeholder="Subject">
-                                            </div>
-                                            <div class="form-group">
-                                                <textarea name="message" class="form-control" rows="5" placeholder="Message"></textarea>
-                                            </div>
-                                            <div>
-                                            <button type="submit" class="site-button skew-icon-btn btn-block">
-                                                <span class="font-18 inline-block text-uppercase p-lr15">Contactarme</span> 
-                                            </button>
-                                            </div>
-                                        </form>
                                         </div>
                                     </div>
-    
-                                </form>
-                        
+                                </div>
+                                <!-- </form> -->
                             </div>
-
                         </div>
                     </div>
                 </div>

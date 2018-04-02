@@ -6,6 +6,53 @@
 <? 
 include 'includes/head.php'
 ?>
+
+    <script>
+        function sendContact(){
+            var valid;
+            valid = validateContact();
+            if(valid) {
+                jQuery.ajax({
+                    url: "contact_form.php",
+                    data:'nombres='+$("#nombres").val()+'&email='+$("#email").val()+'&telefono='+$("#telefono").val()+'&asunto='+$("#asunto").val()+'&mensaje='+$("#mensaje").val(),
+                    type: "POST",
+                    success:function(data){
+                        $("#mail-status").html(data);
+                    },
+                    error:function (){}
+                });
+            }
+        }
+
+        function validateContact() {
+            var valid = true;
+            if(!$("#nombres").val()) {
+                $("#nombres").css('background-color','#f28282');
+                valid = false;
+            }
+            if(!$("#email").val()) {
+                $("#email").css('background-color','#f28282');
+                valid = false;
+            }
+            if(!$("#email").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+                $("#email").css('background-color','#f28282');
+                valid = false;
+            }
+            if(!$("#telefono").val()) {
+                $("#telefono").css('background-color','#f28282');
+                valid = false;
+            }
+            if(!$("#asunto").val()) {
+                $("#asunto").css('background-color','#f28282');
+                valid = false;
+            }
+            if(!$("#mensaje").val()) {
+                $("#mensaje").css('background-color','#f28282');
+                valid = false;
+            }    
+            return valid;
+        }
+    </script>
 </head>
 
 <body id="bg">
@@ -273,29 +320,32 @@ include 'includes/head.php'
                                             <h3 class="text-uppercase m-b10 m-t0">Necesitas más información</h3>
                                             <p>Lorem Ipsum is simply dummy text of the printing and typesg.</p>
                                         </div>
-                                        <!-- TITLE -->                                      
-                                        <form  class="cons-contact-form" method="post" action="form-handler2.php">
-                                        <div class="form-group">
-                                        <input name="username" type="text" required class="form-control" placeholder="Name">
-                                    </div>
-                                        <div class="form-group">
-                                            <input name="email" type="text" class="form-control" required placeholder="Email">
+                                        <!-- TITLE -->
+                                        <div class="cons-contact-form">                                      
+                                        <!-- <form  class="cons-contact-form" method="post" action="form-handler2.php"> -->
+                                            <div id="mail-status"></div>
+                                            <div class="form-group">
+                                                <input id="nombres" name="nombres" type="text" class="form-control" placeholder="Nombre" required>
+                                            </div>
+                                            <div class="form-group">
+                                                <input id="email" name="email" type="text" class="form-control" placeholder="Email" required>
+                                            </div>
+                                            <div class="form-group">
+                                                <input id="telefono" name="telefono" type="text" class="form-control" placeholder="Telefono" required>
+                                            </div>
+                                            <div class="form-group">
+                                                <input id="asunto" name="asunto" type="text" class="form-control" placeholder="Asunto" required>
+                                            </div>
+                                            <div class="form-group">
+                                                <textarea id="mensaje" name="mensaje" class="form-control" rows="5" placeholder="Mensaje"></textarea>
+                                            </div>
+                                            <div>
+                                                <button name="submit" onClick="sendContact();" class="site-button skew-icon-btn btn-block">
+                                                    <span class="font-18 inline-block text-uppercase p-lr15">Contactarme</span> 
+                                                </button>
+                                            </div>
+                                        <!-- </form> -->
                                         </div>
-                                        <div class="form-group">
-                                            <input name="phone" type="text" class="form-control" required placeholder="Phone">
-                                        </div>
-                                        <div class="form-group">
-                                            <input name="subject" type="text" class="form-control" required placeholder="Subject">
-                                        </div>
-                                        <div class="form-group">
-                                            <textarea name="message" class="form-control" rows="5" placeholder="Message"></textarea>
-                                        </div>
-                                        <div>
-                                        <button type="submit" class="site-button skew-icon-btn btn-block">
-                                            <span class="font-18 inline-block text-uppercase p-lr15">Contactarme</span> 
-                                        </button>
-                                   </div>
-                                    </form>
                                     </div>
                                 </div>                              
                             </div>
