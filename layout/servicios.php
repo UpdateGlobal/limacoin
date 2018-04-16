@@ -35,7 +35,7 @@
                             <div class="col-md-6 col-sm-6 bg-primary">
                                 <div class="section-content p-tb100 m-t50  p-l30 clearfix">
                                     <div class="wt-right-part any-query-contact">
-                                        <img src="images/any-query-contact.png" style="width: 100px; height: 100px;" alt="">
+                                        <img src="images/omnia-tech.png" style="width: 80%; height: 100px;" alt="">
                                         <div class="text-center">
                                             <h3 class="text-uppercase font-weight-500 text-white">MINERIA CLOUD - LIMA COIN</h3>
                                             <p class="text-white">Somos parte del corporativo OMNIA TECH empresa dedicada a CLOUD-MININ minería en la nube rentando la velocidad de sus maquinas.</p>

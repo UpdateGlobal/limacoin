@@ -12,7 +12,7 @@
                     <ul>	<!-- SLIDE  -->
                         <li data-index="rs-407" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="2000"  data-thumb="images/main-slider/limacoin-compraventa-cripto.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off"  data-title="One" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <!-- MAIN IMAGE -->
-                            <img src="images/main-slider/limacoin-compraventa-cripto.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
+                            <img src="images/main-slider/limacoin1.jpg" class="opacity-01"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
                             <div id="rrzm_407" class="rev_row_zone rev_row_zone_middle" style="z-index: 6;">
                     
@@ -30,7 +30,7 @@
                                 data-basealign="slide" 
                                 data-responsive_offset="on" 
                                 data-responsive="off"
-                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0.3;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-margintop="[0,0,0,0]"
                                 data-marginright="[0,0,0,0]"
                                 data-marginbottom="[0,0,0,0]"
@@ -54,7 +54,7 @@
                                 data-type="column" 
                                 data-responsive_offset="on" 
                                 data-responsive="off"
-                                data-frames='[{"delay":"+0","speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},
+                                data-frames='[{"delay":"+0","speed":300,"frame":"0","from":"opacity:0.3;","to":"o:1;","ease":"Power3.easeInOut"},
                                 {"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                 data-columnwidth="100%"
                                 data-margintop="[0,0,0,0]"
@@ -83,8 +83,8 @@
                                 data-basealign="slide" 
                                 data-responsive_offset="on" 
                     
-                                data-frames='[{"delay":"+290","split":"chars","splitdelay":0.05,"speed":750,"frame":"0","from":"y:40px;sX:1.5;sY:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},
-                                {"delay":"wait","speed":1000,"frame":"999","to":"sX:1;sY:1;opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
+                                data-frames='[{"delay":"+290","split":"chars","splitdelay":0.05,"speed":750,"frame":"0","from":"y:40px;sX:1.5;sY:1.5;opacity:0.3;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},
+                                {"delay":"wait","speed":1000,"frame":"999","to":"sX:1;sY:1;opacity:0.3;fb:10px;","ease":"Power4.easeOut"}]'
                                 data-margintop="[0,0,0,0]"
                                 data-marginright="[0,0,0,0]"
                                 data-marginbottom="[30,20,30,30]"
@@ -113,7 +113,7 @@
                                 data-basealign="slide" 
                                 data-responsive_offset="on" 
                     
-                                data-frames='[{"delay":"+890","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},
+                                data-frames='[{"delay":"+890","split":"chars","splitdelay":0.03,"speed":300,"frame":"0","from":"sX:2;sY:2;opacity:0.3;fb:5px;","to":"o:1;fb:0;","ease":"Power4.easeOut"},
                                 {"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;fb:10px;","ease":"Power4.easeOut"}]'
                                 data-margintop="[0,0,0,0]"
                                 data-marginright="[0,0,0,0]"
@@ -157,7 +157,7 @@
                         <!-- SLIDE  -->
                         <li data-index="rs-408" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="2000"  data-thumb="limacoin-mineria-criptomonedas.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Two" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <!-- MAIN IMAGE -->
-                            <img src="limacoin-mineria-criptomonedas.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
+                            <img src="images/main-slider/limacoin2.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
                             <div id="rrzm_408" class="rev_row_zone rev_row_zone_middle" style="z-index: 6;">
                     
