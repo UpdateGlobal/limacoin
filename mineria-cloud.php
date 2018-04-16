@@ -123,7 +123,7 @@ include 'includes/head.php'
         <div class="page-content">
             
             <!-- CABECERA -->
-            <div class="wt-bnr-inr overlay-wraper" style="background-image:url('images/banner/about-banner.jpg');">
+            <div class="wt-bnr-inr overlay-wraper" style="background-image:url('images/banner/limacoin-omniatech.jpg');">
                 <div class="overlay-main bg-black opacity-07"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
@@ -162,7 +162,7 @@ include 'includes/head.php'
                         </div>
                         <div class="col-md-6 col-sm-6">
                             <div class="wt-media">
-                                <img src="images/gallery/pic3.jpg" alt="" class="img-responsive"/>
+                                <img src="images/servicios/limacoin_moneda.jpg" alt="" class="img-responsive"/>
                             </div>
                         </div>
                     </div>
@@ -220,7 +220,7 @@ include 'includes/head.php'
                         <div class="wt-separator-outer">
                             <div class="wt-separator bg-primary"></div>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                        <!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p> -->
                     </div>
                     <!-- TITLE END-->  
                     <div class="section-content">

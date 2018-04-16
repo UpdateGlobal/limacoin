@@ -10,9 +10,9 @@
             <div id="rev_slider_149_1_wrapper" class="rev_slider_wrapper fullscreen-container rev-hide-timer " data-alias="snowaddon1" data-source="gallery" style="background-color:#2d3032;padding:0px;">
                 <div id="rev_slider_149_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.1">
                     <ul>	<!-- SLIDE  -->
-                        <li data-index="rs-407" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="2000"  data-thumb="images/main-slider/slider4/slide1.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off"  data-title="One" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                        <li data-index="rs-407" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="2000"  data-thumb="images/main-slider/limacoin-compraventa-cripto.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off"  data-title="One" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <!-- MAIN IMAGE -->
-                            <img src="images/main-slider/slider4/slide1.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
+                            <img src="images/main-slider/limacoin-compraventa-cripto.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
                             <div id="rrzm_407" class="rev_row_zone rev_row_zone_middle" style="z-index: 6;">
                     
@@ -155,9 +155,9 @@
                                 style="z-index: 5;background-color:rgba(2, 14, 34, 0.8);"> </div>
                         </li>
                         <!-- SLIDE  -->
-                        <li data-index="rs-408" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="2000"  data-thumb="images/main-slider/slider4/slide2.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Two" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                        <li data-index="rs-408" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="2000"  data-thumb="limacoin-mineria-criptomonedas.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Two" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <!-- MAIN IMAGE -->
-                            <img src="images/main-slider/slider4/slide2.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
+                            <img src="limacoin-mineria-criptomonedas.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="6" class="rev-slidebg" data-no-retina>
                             <!-- LAYERS -->
                             <div id="rrzm_408" class="rev_row_zone rev_row_zone_middle" style="z-index: 6;">
                     

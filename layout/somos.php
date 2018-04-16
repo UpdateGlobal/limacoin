@@ -19,7 +19,7 @@
                         </div>
                         <div class="col-md-6 col-sm-6">
                             <div class="wt-media">
-                                <img src="images/gallery/pic3.jpg" alt="" class="img-responsive"/>
+                                <img src="images/servicios/limacoin_moneda.jpg" alt="" class="img-responsive"/>
                             </div>
                         </div>
                     </div>
