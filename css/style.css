@@ -12819,3 +12819,6 @@ ol.commentlist li::after {
 .rev-hide-timer .tp-bannertimer{
 	display:none;
 }
+.p-justy {
+	text-align: justify;
+}

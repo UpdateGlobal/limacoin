@@ -151,11 +151,12 @@ include 'includes/head.php'
                         <div class="col-md-6 col-sm-6">
                             <div class="section-head text-left">
                                 <span class="wt-title-subline text-gray-dark font-16 m-b15">¿Sabes donde cambiar tus bitcoin?</span>
-                                <h2 class="text-uppercase">CASA DE CAMBIO DE CRIPTOMONEDA LIMA COIN </h2>
+                                <h2 class="text-uppercase">MINERIA CLOUD - LIMA COIN - OMNIATECH </h2>
                                 <div class="wt-separator-outer"><div class="wt-separator bg-primary"></div></div>
-                                <p><strong>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </strong></p>
-                                <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. It was popularised in the with the .
+                                <p><strong>Omniatech cuenta con granjas propias en lo países de Suecia y Austria. </strong></p>
+                                <p class="p-justy">
+                                Limacoin representada por el señor Pedro Luis Pusari Quispe joven emprendedor y a la vez empresario es parte del corporativo OMNIA TECH empresa dedicada a CLOUD-MININ minería en la nube que cuenta con una cartera de criptomonedas como BITCOIN, ETHEREUM y DASH la cuales puedes minar rentando la velocidad de las maquinas. </p>
+                                <p class="p-justy">OMNIA TECH empresa legal y registrada en GIBRALTAR es un corporativo que opera en los 195 países del mundo además posee todo el hardware de minería para un efectivo servicio de minado. 
                                 </p>
                             </div>
                         </div>
@@ -215,7 +216,7 @@ include 'includes/head.php'
                     <!-- TITLE START-->
                     <div class="section-head text-center">
                         <span class="wt-title-subline font-16 text-gray-dark m-b15">Compra y Venta de Bitcoin</span>
-                        <h2 class="text-uppercase">PORQUÉ INVERTIR EN BITCOIN</h2>
+                        <h2 class="text-uppercase">PORQUÉ INVERTIR EN MINERÍA</h2>
                         <div class="wt-separator-outer">
                             <div class="wt-separator bg-primary"></div>
                         </div>
@@ -355,98 +356,7 @@ include 'includes/head.php'
                 </div>
             </div>
             <!-- PORQUÉ INVERTIR EN BITCOIN -->    
-                 
-            <!-- COMO EMPEZAR  -->
-            <div class="section-full  p-t80 p-b80 bg-gray">
-            	<div class="container">
-                    <!-- TITTLE START -->
-                    <div class="section-head text-center">
-                        <h2 class="text-uppercase">Cómo empezar a invertir <br> en Bitcoins y criptomonedas</h2>
-                        <div class="wt-separator-outer"><div class="wt-separator bg-primary"></div></div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                    </div>
-                    <!-- TITLE END -->
-                    <div class="section-content no-col-gap">
-                        <div class="row">
-                        
-                            <!-- COLUMNS 1 -->
-                            <div class="col-md-4 col-sm-6 animate_line">
-                                <div class="wt-icon-box-wraper  p-a30 center bg-white m-a5">
-                                    <div class="icon-lg text-primary m-b20">
-                                        <a href="about-1.html#" class="icon-cell"><img src="images/icon/pick-29.png" alt=""></a>
-                                    </div>
-                                    <div class="icon-content">
-                                        <h4 class="wt-tilte text-uppercase font-weight-500">Instant Trading</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- COLUMNS 2 -->
-                            <div class="col-md-4 col-sm-6 animate_line">
-                                <div class="wt-icon-box-wraper  p-a30 center bg-white m-a5">
-                                    <div class="icon-lg text-primary m-b20">
-                                        <a href="about-1.html#" class="icon-cell"><img src="images/icon/pick-28.png" alt=""></a>
-                                    </div>
-                                    <div class="icon-content ">
-                                        <h4 class="wt-tilte text-uppercase font-weight-500">Recurring Buying</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- COLUMNS 3 -->
-                            <div class="col-md-4 col-sm-6 animate_line">
-                                <div class="wt-icon-box-wraper  p-a30 center bg-white m-a5">
-                                    <div class="icon-lg text-primary m-b20">
-                                        <a href="about-1.html#" class="icon-cell"><img src="images/icon/pick-17.png" alt=""></a>
-                                    </div>
-                                    <div class="icon-content">
-                                        <h4 class="wt-tilte text-uppercase font-weight-500">Safe and Secure</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- COLUMNS 4 -->
-                            <!-- <div class="col-md-4 col-sm-6 animate_line">
-                                <div class="wt-icon-box-wraper  p-a30 center bg-white m-a5">
-                                    <div class="icon-lg text-primary m-b20">
-                                        <a href="about-1.html#" class="icon-cell"><img src="images/icon/pick-19.png" alt=""></a>
-                                    </div>
-                                    <div class="icon-content">
-                                        <h4 class="wt-tilte text-uppercase font-weight-500">Investment Planning</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                            <!-- COLUMNS 5 -->
-                            <!-- <div class="col-md-4 col-sm-6 animate_line">
-                                <div class="wt-icon-box-wraper  p-a30 center bg-white m-a5">
-                                    <div class="icon-lg text-primary m-b20">
-                                        <a href="about-1.html#" class="icon-cell"><img src="images/icon/pick-12.png" alt=""></a>
-                                    </div>
-                                    <div class="icon-content">
-                                        <h4 class="wt-tilte text-uppercase font-weight-500">Covered By Insurance</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                            <!-- COLUMNS 6 -->
-                            <!-- <div class="col-md-4 col-sm-6 animate_line">
-                                <div class="wt-icon-box-wraper  p-a30 center bg-white m-a5">
-                                    <div class="icon-lg text-primary m-b20">
-                                        <a href="about-1.html#" class="icon-cell"><img src="images/icon/pick-38.png" alt=""></a>
-                                    </div>
-                                    <div class="icon-content">
-                                        <h4 class="wt-tilte text-uppercase font-weight-500">Bitcoin Transaction</h4>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesg indtrysum has been the Ipsum dummy of the printing indus .</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                            
-                        </div>
-                    </div>
-                
-                </div>
-            </div>
+ 
             <!-- WHY CHOOSE US SECTION END --> 
 
         </div>

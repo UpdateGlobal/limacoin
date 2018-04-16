@@ -13,10 +13,7 @@
                                 <div class="logo-footer clearfix p-b15">
                                     <a href="index.html"><img src="images/footer-logo.png" width="230" height="67" alt=""/></a>
                                 </div>
-                                <p>Thewebmax ipsum dolor sit amet, consectetuer adipiscing elit,
-                                      sed diam nonummy nibh euismod tincidunt ut laoreet dolore agna aliquam erat .   
-                                      wisi enim ad minim veniam, quis tation. sit amet, consec tetuer.
-                                      ipsum dolor sit amet, consectetuer adipiscing.ipsum dolor sit .
+                                <p>Somos un grupo de jóvenes emprendedores que visionamos en el mundo de las criptomonedas una nueva forma de economía digital y evolución del dinero es así que nace limacoin quien se suma a esta nueva tendencia tecnológica de las criptodivisas. 
                                 </p>
                             </div>
                         </div>

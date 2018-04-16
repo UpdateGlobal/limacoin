@@ -8,9 +8,12 @@
                                 <span class="wt-title-subline text-gray-dark font-16 m-b15">Quienes somos</span>
                                 <h2 class="text-uppercase">Bienvenidos a Lima Coin </h2>
                                 <div class="wt-separator-outer"><div class="wt-separator bg-primary"></div></div>
-                                <p><strong>Lima Coin es  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </strong></p>
-                                <p>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. It was popularised in the with the .
+                                <p><strong>El porcentaje de crecimiento quienes adoptan a las criptodivisas como una nueva opción de inversión ha crecido en estos últimos 10 años.</strong></p>
+                                <p class="p-justy">
+                                Somos un grupo de jóvenes emprendedores que visionamos en el mundo de las criptomonedas una nueva forma de economía digital y evolución del dinero es así que nace limacoin quien se suma a esta nueva tendencia tecnológica de las criptodivisas.
+                                </p>
+                                <p class="p-justy">
+                                Limacoin como casa de cambio cuenta con oficinas propias para una atención personalizada quienes apuestan por esta nueva era de las criptomonedas que no solo se da en Latinoamérica sino en todo el mundo.
                                 </p>
                             </div>
                         </div>
