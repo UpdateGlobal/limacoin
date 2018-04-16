@@ -124,7 +124,7 @@ include 'includes/head.php'
             
             <!-- CABECERA -->
             <div class="wt-bnr-inr overlay-wraper" style="background-image:url('images/banner/limacoin-omniatech.jpg');">
-                <div class="overlay-main bg-black opacity-07"></div>
+                <div class="overlay-main bg-black opacity-03"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
                         <h1 class="text-white p-t80">CASA DE CAMBIO CRIPTOMONEDAS LIMA COIN</h1>
