@@ -42,7 +42,7 @@ include 'includes/head.php'
                         
                             <div class="logo-header mostion">
                                 <a href="index.php">
-                                    <img src="images/logo-light.png" width="230" height="67" alt="" />
+                                    <img src="images/limacoineslogan.png" width="230" height="67" alt="" />
                                 </a>
                             </div>
 

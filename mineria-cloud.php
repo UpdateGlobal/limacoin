@@ -124,7 +124,7 @@ include 'includes/head.php'
             
             <!-- CABECERA -->
             <div class="wt-bnr-inr overlay-wraper" style="background-image:url('images/banner/limacoin-omniatech.jpg');">
-                <div class="overlay-main bg-black opacity-03"></div>
+                <div class="overlay-main bg-black opacity-04"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
                         <h1 class="text-white p-t80">CASA DE CAMBIO CRIPTOMONEDAS LIMA COIN</h1>
@@ -161,8 +161,8 @@ include 'includes/head.php'
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6">
-                            <div class="wt-media">
-                                <img src="images/servicios/limacoin_moneda.jpg" alt="" class="img-responsive"/>
+                            <div class="wt-media p-t60">
+                               <iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/-ClWXzxyYc8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>

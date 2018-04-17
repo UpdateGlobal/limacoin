@@ -23,7 +23,7 @@
                             <div class="col-md-6 col-sm-6 bg-secondry" align="center">
                                 <div class="section-content p-tb100  clearfix">
                                     <div class="wt-center-part m-lr30 any-query">
-                                        <img src="images/limacoin-exchange.png" style="width: 0%; height: 0px;" alt="">
+                                        <img src="images/limacoin-exchange.png">
                                         <div class="text-center">
                                             <h3 class="text-uppercase font-weight-500 text-white">CASA DE CAMBIO - LIMA COIN</h3>
                                             <p class="text-white"> Limacoin es una casa de cambio que ofrece seguridad confianza y rapidez al momento de comprar o vender Bitcoin y demás criptomonedas.</p>  
@@ -34,8 +34,8 @@
                             </div>
                             <div class="col-md-6 col-sm-6 bg-primary" align="center">
                                 <div class="section-content p-tb100 clearfix">
-                                    <div class="wt-center-part m-lr30 any-query-contact">
-                                        <img src="images/omnia-tech.png" style="width: 0%; height: 0px;" alt="">
+                                    <div class="wt-center-part m-lr30 any-query-contact" align="center">
+                                        <img src="images/omnia.png">
                                         <div class="text-center">
                                             <h3 class="text-uppercase font-weight-500 text-white">MINERIA CLOUD - LIMA COIN</h3>
                                             <p class="text-white">Somos parte del corporativo OMNIA TECH empresa dedicada a CLOUD-MININ minería en la nube rentando la velocidad de sus maquinas.</p>

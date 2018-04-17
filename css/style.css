@@ -12353,9 +12353,9 @@ ol.commentlist li::after {
 
 .any-query-contact img{
 	position: absolute;
-	top: -100px;
+	top: -90px;
 	left: 20%;
-	margin-left: -40px;
+	margin-left: 40px;
 }
 .any-query img, .any-query-contact img{
 	opacity:0.1;
