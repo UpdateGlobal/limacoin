@@ -163,7 +163,7 @@ include 'includes/head.php'
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6">
-                            <div class="wt-media">
+                            <div class="wt-media p-t60">
                                 <img src="images/servicios/limacoin_moneda.jpg" alt="" class="img-responsive"/>
                             </div>
                         </div>
